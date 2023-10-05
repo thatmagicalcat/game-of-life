@@ -48,4 +48,4 @@ $ cargo install --git https://github.com/Pranjal-Patel/game-of-life
 </table>
 
 ## Demo
-![demo video](demo.mp4)
+![demo video](./demo.mp4)
